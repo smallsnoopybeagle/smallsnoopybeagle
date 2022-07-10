@@ -4,4 +4,5 @@
 - getting aquainted with the neo4j framework for a project
 - 💞️ I’m looking to collaborate on ... whatever I am thrown. However, I'm a rather busy high schooler and not a fantastic coder...
 - 📫 How to reach me ... reach me on discord smallsnoopybeagle#5875 dms open
+pfp from https://wall.alphacoders.com/tag/4k-xerneas-%28pok%C3%A9mon%29-wallpapers
 
