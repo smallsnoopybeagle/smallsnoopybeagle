@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @smallsnoopybeagle
+- He/Him, GMT +8
 - 👀 I’m interested in coding in general. Especially interested in Machine Learning but dont exactly know where to begin.
 - 🌱 I’m currently learning Javascript, C++, Python. Can't wait to learn how to use PHP and Node.js for web design
 - getting aquainted with the neo4j framework for a project
